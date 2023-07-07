@@ -7,3 +7,15 @@ Technologies used:
 - dotnet
 - Terraform
 - GitHub Actions
+
+## Getting Started
+
+### Prerequisites
+
+Install dotnet 6
+
+### Running the app
+
+```bash
+dotnet run
+```
